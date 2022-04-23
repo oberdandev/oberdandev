@@ -7,6 +7,6 @@
     </a>
 </div>
 
- ## :large_blue_circle: About Me
+ ## :blue_circle: About Me
 Hi, my name is Oberdan Angelim! I'm a journalist and a technology enthusiast, I still learning programming.
-My focus is web so I started with Javascript, CSS, HTML and NodeJS.
+My focus is web so I started with Javascript, CSS, HTML and NodeJS for backend.
