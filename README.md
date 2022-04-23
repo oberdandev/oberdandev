@@ -7,6 +7,6 @@
     </a>
 </div>
 
- ## 🔵 About Me
+ ## About Me
 Hi, my name is Oberdan Angelim! I'm a journalist and a technology enthusiast, I still learning programming.
 My focus is web so I started with Javascript, CSS, HTML and NodeJS for backend.
