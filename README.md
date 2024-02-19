@@ -11,3 +11,6 @@
 Hi, I'm Oberdan Angelim! Journalist and a technology enthusiast; still learning programming.
 My focus is web so I started with Javascript, CSS, HTML and NodeJS.
 Now I have some skills with SQL, PostgreSQL, MongoDB and Typescript.
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oberdandev&show_icons=true&theme=transparent)
